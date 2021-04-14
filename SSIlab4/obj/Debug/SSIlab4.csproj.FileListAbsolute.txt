@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\bin\Debug\SSIlab4.exe.config
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\bin\Debug\SSIlab4.exe
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\bin\Debug\SSIlab4.pdb
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\obj\Debug\SSIlab4.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\obj\Debug\SSIlab4.exe
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zad3\SSIlab4\obj\Debug\SSIlab4.pdb
